@@ -1,3 +1,6 @@
 < -- HEAD -->
 Demo 
 Demo 1
+
+How to pull repo
+git checkout <branch>
